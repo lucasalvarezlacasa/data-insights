@@ -1,2 +1,2 @@
 # data-insights
-Deriving insights from data
+Deriving insights from my own data
